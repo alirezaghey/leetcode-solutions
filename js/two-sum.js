@@ -1,3 +1,6 @@
+// Related Topics: Array, Hash Table
+// Difficulty: Easy
+
 /*
 Initial thoughts:
 Comparing each and every element of the array

@@ -16,6 +16,7 @@
 
 ## Medium
 
-| #    | Problem                                                           | Solution                    | Time comp. | Space com. | Notes             |
-| :--- | ----------------------------------------------------------------- | :-------------------------- | :--------: | :--------: | :---------------- |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JS](js/add-two-numbers.js) |   _O(n)_   |   _O(n)_   | Linked List, Math |
+| #    | Problem                                                                                                                    | Solution                                              | Time comp. |  Space com.   | Notes                                            |
+| :--- | -------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------: | :-----------: | :----------------------------------------------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                          | [JS](js/add-two-numbers.js)                           |   _O(n)_   |    _O(n)_     | Linked List, Math                                |
+| 3    | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JS](js/longest-substring-without-repeating-chars.js) |   _O(n)_   | _O(min(n,m))_ | Hash Table, Two Pointers, String, Sliding Window |

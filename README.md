@@ -20,3 +20,10 @@
 | :--- | -------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------: | :-----------: | :----------------------------------------------- |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                          | [JS](js/add-two-numbers.js)                           |   _O(n)_   |    _O(n)_     | Linked List, Math                                |
 | 3    | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JS](js/longest-substring-without-repeating-chars.js) |   _O(n)_   | _O(min(n,m))_ | Hash Table, Two Pointers, String, Sliding Window |
+
+
+## Hard
+
+| #    | Problem                                                                                   | Solution                             |     Time comp.     | Space com. | Notes                                    |
+| :--- | ----------------------------------------------------------------------------------------- | :----------------------------------- | :----------------: | :--------: | :--------------------------------------- |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JS](js/median-two-sorted-arrays.js) | _O(log min(n, m))_ |   _O(1)_   | Array, Binary Search, Divide and Conquer |

@@ -25,6 +25,7 @@
 
 ## Hard
 
-| #    | Problem                                                                                   | Solution                             |     Time comp.     | Space com. | Notes                                    |
-| :--- | ----------------------------------------------------------------------------------------- | :----------------------------------- | :----------------: | :--------: | :--------------------------------------- |
-| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JS](js/median-two-sorted-arrays.js) | _O(log min(n, m))_ |   _O(1)_   | Array, Binary Search, Divide and Conquer |
+| #    | Problem                                                                                   | Solution                                |     Time comp.     | Space com. | Notes                                     |
+| :--- | ----------------------------------------------------------------------------------------- | :-------------------------------------- | :----------------: | :--------: | :---------------------------------------- |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JS](js/median-two-sorted-arrays.js)    | _O(log min(n, m))_ |   _O(1)_   | Array, Binary Search, Divide and Conquer  |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [JS](js/regular-expression-matching.js) |     _O(n * m)_     | _O(n * m)_ | String, Dynamic Programming, Backtracking |

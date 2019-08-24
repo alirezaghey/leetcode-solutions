@@ -11,7 +11,7 @@ and check whether they create a solution, all the while
 checking that the values are unique.
 
 Time complexity: O(n^2)
-Space complexity: O(n);
+Space complexity: O(n^2);
 */
 
 /**

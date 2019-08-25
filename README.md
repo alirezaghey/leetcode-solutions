@@ -11,6 +11,7 @@
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [JS](js/merge-two-sorted-lists.js)         |    _O(n+m)_     |   _O(1)_   | Linked List              |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](js/remove-duplicates-sorted-array.js) |     _O(n)_      |   _O(1)    | Array, Two Pointers      |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [JS](js/remove-element.js)                 |     _O(n)_      |   _O(1)_   | Array, Two Pointers      |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                     | [JS](js/implement-strStr.js)               |    _O(n*m)_     |   _O(n)_   | String, Two Pointers     |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                 |     _O(n)_      |   _O(n)_   | Tree, DFS, BFS           |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)          |     _O(n)_      |   _O(n)_   | Tree, DFS                |
 

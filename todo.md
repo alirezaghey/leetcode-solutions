@@ -1,0 +1,1 @@
+1- Add KMP algorithm to js/implement-strStr.js

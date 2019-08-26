@@ -17,8 +17,8 @@ Space complexity: O(1)
  * @return {number}
  */
 const strStr = (haystack, needle) => {
-  if (needle.length === 0 || haystack === needle) return 0;
-  for (let i = 0; i < haystack.length - needle.length; i++) {
+  if (needle.length === 0) return 0;
+  for (let i = 0; i < haystack.length - needle.length + 1; i++) {
     if (haystack[i] !== needle[0]) continue;
     for (let j = 0; j < needle.length; j++) {
       if (haystack[i + j] !== needle[j]) break;

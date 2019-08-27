@@ -13,6 +13,7 @@
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [JS](js/remove-element.js)                 |     _O(n)_      |   _O(1)_   | Array, Two Pointers      |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                     | [JS](js/implement-strStr.js)               |    _O(n*m)_     |   _O(n)_   | String, Two Pointers     |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [JS](js/search-insert-position.js)         |   _O(log n)_    |   _O(1)_   | Array, Binary Search     |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/)                                             | [JS](js/count-and-say.js)                  |        ?        |     ?      | String                   |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                 |     _O(n)_      |   _O(n)_   | Tree, DFS, BFS           |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)          |     _O(n)_      |   _O(n)_   | Tree, DFS                |
 

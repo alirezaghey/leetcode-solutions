@@ -15,6 +15,7 @@
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [JS](js/search-insert-position.js)         |   _O(log n)_    |   _O(1)_   | Array, Binary Search                           |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/)                                             | [JS](js/count-and-say.js)                  |        ?        |     ?      | String                                         |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                       | [JS](js/maximum-subarray.js)               |     _O(n)_      |   _O(1)_   | Array, Dynamic Programming, Divide and Conquer |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [JS](js/length-of-last-word.js)            |     _O(n)_      |   _O(1)_   | String                                         |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                 |     _O(n)_      |   _O(n)_   | Tree, DFS, BFS                                 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)          |     _O(n)_      |   _O(n)_   | Tree, DFS                                      |
 

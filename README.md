@@ -18,6 +18,7 @@
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [JS](js/length-of-last-word.js)            |     _O(n)_      |    _O(1)_    | String                                         |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [JS](js/plus-one.js)                       |     _O(n)_      |    _O(1)_    | Array                                          |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   | [JS](js/add-binary.js)                     |  _O(Max(n,m))_  | O(Max(n,m))_ | Math, String                                   |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                           | [JS](js/sqrt(x).js)                        |   _O(log n)_    |    _O(1)_    | Math, Binary Search                            |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                 |     _O(n)_      |    _O(n)_    | Tree, DFS, BFS                                 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)          |     _O(n)_      |    _O(n)_    | Tree, DFS                                      |
 

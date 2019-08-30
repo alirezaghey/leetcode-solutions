@@ -21,6 +21,7 @@
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                           | [JS](js/sqrt(x).js)                            |   _O(log n)_    |    _O(1)_    | Math, Binary Search                            |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         | [JS](js/climbing-stairs.js)                    |     _O(n)_      |    _O(1)_    | Dynamic Programming                            |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   | [JS](js/remove-duplicates-from-sorted-list.js) |     _O(n)_      |    _O(1)_    | Linked List                                    |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [JS](js/merge-sorted-array.js)                 |    _O(n+m)_     |    _O(1)_    | Array, Two Pointers                            |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                     |     _O(n)_      |    _O(n)_    | Tree, DFS, BFS                                 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)              |     _O(n)_      |    _O(n)_    | Tree, DFS                                      |
 

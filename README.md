@@ -25,6 +25,7 @@
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                     | [JS](js/same-tree.js)                          |     _O(n)_      |    _O(1)_    | Tree, Depth-first Search                       |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [JS](js/symmetric-tree.js)                     |     _O(n)_      |    _O(n)_    | Tree, DFS, BFS                                 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)              |     _O(n)_      |    _O(n)_    | Tree, DFS                                      |
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [JS](js/pascals-triangle.js)                   |    _O(n^2)_     |   _O(n^2)_   | Array                                          |
 
 
 ## Medium

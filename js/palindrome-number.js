@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/palindrome-number/
 // Related Topics: Math, Array
 // Difficulty: Easy
 
@@ -8,7 +9,7 @@ we can reverse the array and check wheter it
 equals the original.
 
 Time complexity: O(log n) because x has approximately log10(n) digits
-Space complexity: O(n) because we need to convert the number to string
+Space complexity: O(log n) because we need to convert the number to string
 
 */
 /**

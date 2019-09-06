@@ -30,13 +30,13 @@
 
 ## Medium
 
-| #    | Problem                                                                                                                    | Solution                                              | Time comp. |  Space com.   | Notes                                            |
-| :--- | -------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------: | :-----------: | :----------------------------------------------- |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                          | [JS](js/add-two-numbers.js)                           |   _O(n)_   |    _O(n)_     | Linked List, Math                                |
-| 3    | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JS](js/longest-substring-without-repeating-chars.js) |   _O(n)_   | _O(min(n,m))_ | Hash Table, Two Pointers, String, Sliding Window |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                          | [JS](js/string-to-integer-atoi.js)                    |   _O(n)_   |    _O(1)_     | Math, String                                     |
-| 15   | [3Sum](https://leetcode.com/problems/3sum/)                                                                                | [JS](js/3sum.js)                                      |  _O(n^2)_  |   _O(n^2)_    | Array, Two Pointers                              |
-| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                | [JS](js/valid-sudoku.js)                              |   _O(1)_   |    _O(1)_     | Hash Table                                       |
+| #    | Problem                                                                                                                    | Solution                                                                              | Time comp. |  Space com.   | Notes                                            |
+| :--- | -------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :--------: | :-----------: | :----------------------------------------------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                          | <ul><li>[JS](js/add-two-numbers.js)</li><li>[PY](python/add-two-numbers.py)</li></ul> |   _O(n)_   |    _O(n)_     | Linked List, Math                                |
+| 3    | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JS](js/longest-substring-without-repeating-chars.js)                                 |   _O(n)_   | _O(min(n,m))_ | Hash Table, Two Pointers, String, Sliding Window |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                          | [JS](js/string-to-integer-atoi.js)                                                    |   _O(n)_   |    _O(1)_     | Math, String                                     |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/)                                                                                | [JS](js/3sum.js)                                                                      |  _O(n^2)_  |   _O(n^2)_    | Array, Two Pointers                              |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                | [JS](js/valid-sudoku.js)                                                              |   _O(1)_   |    _O(1)_     | Hash Table                                       |
 
 ## Hard
 

@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/longest-common-prefix/
 // Related Topics: String, Array
 // Difficulty: Easy
 
@@ -9,8 +10,8 @@ in the first string, adding the character to our results
 if all of the strings have the same character, and returning
 the results in case of a difference.
 
-Time complexity: O(n * min(s)) where s is the length of the strings
-Space complexity: O(min(s)) where s is the length of the strings
+Time complexity: O(n * min(s)) where s is the length of the longest common prefix
+Space complexity: O(min(s)) where s is the length of the longest common prefix
 
 */
 
@@ -35,7 +36,7 @@ Optimization:
 Using the counter variable we can forgoe the result tracking variable
 and just slice and return it at the end, rendering the space complexity constant.
 
-Time complexity: O(n * min(s)) where s is the length of the strings
+Time complexity: O(n * min(s)) where s is the length of the longest common prefix
 Space complexity: O(1)
 */
 

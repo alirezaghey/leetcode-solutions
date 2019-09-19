@@ -13,6 +13,7 @@
 # linked list in it and advance it if we merge that particular node.
 
 from typing import List
+from queue import PriorityQueue
 # Definition for singly-linked list.
 
 
@@ -23,17 +24,17 @@ class ListNode:
 
 
 class Solution:
-    def mergeKSortedLists(self, l: List[ListNode]) -> ListNode:
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         # Save a pointer to the current beginning of each linked list
         currPointers = []
-        for i in range(len(l)):
-            currPointers.append(l[i])
+        for i in range(len(lists)):
+            currPointers.append(lists[i])
 
         head = ListNode(0)
         curr = head
         while True:
             done = True
-            currMin = 2 ** 21 - 1
+            currMin = 2 ** 31 - 1
             currMinIndex = -1
             for i in range(len(currPointers)):
                 if currPointers[i] != None and currPointers[i].val < currMin:
@@ -45,5 +46,31 @@ class Solution:
             curr.next = currPointers[currMinIndex]
             curr = curr.next
             currPointers[currMinIndex] = currPointers[currMinIndex].next
+
+        return head.next
+
+# Optimization:
+# Using a priority queue we can reduce the comparison and lookup time
+# of the smallest value from k to log k.
+# The algorithm is almost like the one used in the previous example.
+
+# Time Complexity: O(n * log k) where n == the number of all the nodes in all the linked lists and k == the number of the linked lists
+# Sapce Complexity: O(k) where k == the number of linked lists since we need to load the current of each linked list in the priority queue
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        # Load the first node from every linked list into a priority queue
+        prQueue = PriorityQueue()
+        for node in lists:
+            if node:
+                print(node.val)
+                prQueue.put((node.val, node))
+
+        head = ListNode(0)
+        curr = head
+        while not prQueue.empty():
+            val, node = prQueue.get()
+            curr.next = node
+            curr = curr.next
+            if node.next:
+                prQueue.put((node.next.val, node.next))
 
         return head.next

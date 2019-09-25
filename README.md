@@ -27,6 +27,7 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)     | <ul><li>[PY](python/binary-tree-level-order-traversal.py)</li><li>[JS](js/binary-tree-level-order-traversal.js)</li></ul> |     _O(n)_      |    _O(n)_    | Tree, BFS                                      |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [JS](js/max-depth-binary-tree.js)                                                                                         |     _O(n)_      |    _O(n)_    | Tree, DFS                                      |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [JS](js/pascals-triangle.js)                                                                                              |    _O(n^2)_     |   _O(n^2)_   | Array                                          |
+| 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                   | <ul><li>[PY](python/range-sum-query-immutable.py)</li><li>[JS](js/range-sum-query-immutable.js)</li></ul>                 |     _O(n)_      |    _O(n)_    | Dynamic Programming                            |
 
 
 ## Medium

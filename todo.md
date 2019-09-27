@@ -7,6 +7,7 @@
 - [ ] Implement the divide and conquer algorithm for Merge K Sorted Lists problem (both js and python)
 - [ ] Refactor Next Permutation both for JS and PY.
 - [ ] Add intuition and thought process for Bulb Switcher.
+- [ ] Solve Predict the Winner
 
 
 - [ ] **Write all solutions in Python**

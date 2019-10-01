@@ -8,6 +8,7 @@
 - [ ] Refactor Next Permutation both for JS and PY.
 - [ ] Add intuition and thought process for Bulb Switcher.
 - [ ] Solve Predict the Winner
+- [ ] Add other approaches, including sorting and Two Pointers and sorting and Binary Search for Smallest String Starting from Leaf
 
 
 - [ ] **Write all solutions in Python**

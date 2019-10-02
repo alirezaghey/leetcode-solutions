@@ -9,6 +9,8 @@
 - [ ] Add intuition and thought process for Bulb Switcher.
 - [ ] Solve Predict the Winner
 - [ ] Add other approaches, including sorting and Two Pointers and sorting and Binary Search for Smallest String Starting from Leaf
+- [ ] Add JS solution for Smallest Subtree with all the Deepest Nodes (LT 865)
+- [ ] Learn and implement the elegant solution from LT for Smallest Subtree with all the Deepest Nodes (LT 865)
 
 
 - [ ] **Write all solutions in Python**

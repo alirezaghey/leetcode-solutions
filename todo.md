@@ -12,5 +12,6 @@
 - [ ] Add JS solution for Smallest Subtree with all the Deepest Nodes (LT 865)
 - [ ] Learn and implement the elegant solution from LT for Smallest Subtree with all the Deepest Nodes (LT 865)
 - [ ] Solve Insufficient Nodes in Root to Leaf Paths by returning nodes instead of the maximum value (LT 1080)
+- [ ] Solve Remove All Adjacent Duplicates in String II with two pointers method (1209)
 
 - [ ] **Write all solutions in Python**

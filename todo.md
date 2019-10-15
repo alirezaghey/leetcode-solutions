@@ -14,5 +14,6 @@
 - [ ] Solve Insufficient Nodes in Root to Leaf Paths by returning nodes instead of the maximum value (LC 1080)
 - [ ] Solve Remove All Adjacent Duplicates in String II with two pointers method (1209)
 - [ ] Refactor Spiral Matrix and solve like official solution (LC 54)
+- [ ] Refactor Spiral Matrix II (LC 59)
 
 - [ ] **Write all solutions in Python**

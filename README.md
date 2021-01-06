@@ -446,3 +446,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/min_cost_to_move_chips_to_same_position.go)
 
 [https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+
+
+### 1290. Convert Binary Number in a Linked List to Integer
+[python solution](python/convert-binary-number-in-linked-list-to-integer.py)
+
+[go solution](go/convert_binary_number_in_linked_list_to_integer.go)
+
+[https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)

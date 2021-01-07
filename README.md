@@ -368,3 +368,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/count-of-range-sum/](https://leetcode.com/problems/count-of-range-sum/)
 
 
+### 552. Student Attendance Record II
+[python solution](python/student-attendance-record-ii.py)
+
+[go solution](go/student_attendance_record_ii.go)
+
+[https://leetcode.com/problems/student-attendance-record-ii/](https://leetcode.com/problems/student-attendance-record-ii/)

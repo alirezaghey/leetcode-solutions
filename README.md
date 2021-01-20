@@ -301,3 +301,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/single_element_in_sorted_array.go)
 
 [https://leetcode.com/problems/single-element-in-a-sorted-array/](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+
+### 51. N-Queens
+[python solution](python/n-queens.py)
+
+[go solution](go/n_queens.go)
+
+[https://leetcode.com/problems/n-queens/](https://leetcode.com/problems/n-queens/)

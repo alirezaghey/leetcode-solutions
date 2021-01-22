@@ -430,3 +430,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/stream_of_characters.go)
 
 [https://leetcode.com/problems/stream-of-characters/](https://leetcode.com/problems/stream-of-characters/)
+
+
+### 337. House Robber III
+[python solution](python/house-robber-iii.py)
+
+[go solution](go/house_robber_iii.go)
+
+[https://leetcode.com/problems/house-robber-iii/](https://leetcode.com/problems/house-robber-iii/)

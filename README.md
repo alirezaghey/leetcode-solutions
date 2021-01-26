@@ -478,3 +478,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/domino_and_tromino_tiling.go)
 
 [https://leetcode.com/problems/domino-and-tromino-tiling/](https://leetcode.com/problems/domino-and-tromino-tiling/)
+
+
+### 878. Nth Magical Number
+[python solution](python/nth-magical-number.py)
+
+[go solution](go/nth_magical_number.go)
+
+[https://leetcode.com/problems/nth-magical-number/](https://leetcode.com/problems/nth-magical-number/)

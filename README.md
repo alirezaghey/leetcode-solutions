@@ -221,3 +221,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/daily_temperatures.go)
 
 [https://leetcode.com/problems/daily-temperatures/](https://leetcode.com/problems/daily-temperatures/)
+
+
+### 2065. Maximum Path Quality of a Graph
+[python solution](python/maximum-path-quality-of-graph.py)
+
+[go solution](go/maximum_path_quality_of_graph.go)
+
+[https://leetcode.com/problems/maximum-path-quality-of-a-graph/](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)

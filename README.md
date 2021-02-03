@@ -462,3 +462,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/binary_tree_tilt.go)
 
 [https://leetcode.com/problems/binary-tree-tilt/](https://leetcode.com/problems/binary-tree-tilt/)
+
+
+### 1306. Jump Game III
+[python solution](python/jump-game-iii.py)
+
+[go solution](go/jump_game_iii.go)
+
+[https://leetcode.com/problems/jump-game-iii/](https://leetcode.com/problems/jump-game-iii/)

@@ -331,6 +331,14 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 952. Largest Component Size by Common Factor
 [python solution](python/largest-component-size-by-common-factor.py)
 
-
+[go solution](go/largest_component_size_by_common_factor.go)
 
 [https://leetcode.com/problems/largest-component-size-by-common-factor/](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+
+
+### 986. Interval List Intersections
+[python solution](python/interval-list-intersection.py)
+
+[go solution](go/interval_list_intersection.go)
+
+[https://leetcode.com/problems/interval-list-intersections/](https://leetcode.com/problems/interval-list-intersections/)

@@ -470,3 +470,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/jump_game_iii.go)
 
 [https://leetcode.com/problems/jump-game-iii/](https://leetcode.com/problems/jump-game-iii/)
+
+
+### 790. Domino and Tromino Tiling
+[python solution](python/domino-and-tromino-tiling.py)
+
+[go solution](go/domino_and_tromino_tiling.go)
+
+[https://leetcode.com/problems/domino-and-tromino-tiling/](https://leetcode.com/problems/domino-and-tromino-tiling/)

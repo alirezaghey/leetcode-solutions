@@ -438,3 +438,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/house_robber_iii.go)
 
 [https://leetcode.com/problems/house-robber-iii/](https://leetcode.com/problems/house-robber-iii/)
+
+
+### 1217. Minimum Cost to Move Chips to The Same Position
+[python solution](python/min-cost-to-move-chips-to-same-position.py)
+
+[go solution](go/min_cost_to_move_chips_to_same_position.go)
+
+[https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)

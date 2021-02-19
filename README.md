@@ -244,3 +244,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/largest_divisible_subset.go)
 
 [https://leetcode.com/problems/largest-divisible-subset/](https://leetcode.com/problems/largest-divisible-subset/)
+
+
+
+### 668. Kth Smallest Number in Multiplication Table
+[python solution](python/kth-smallest-number-multiplication-table.py)
+
+[go solution](go/kth_smallest_number_multiplication_table.go)
+
+[https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)

@@ -205,3 +205,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/min_cost_make_valid_path_in_grid.go)
 
 [https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+
+
+### 203. Remove Linked List Elements
+[python solution](python/remove-linked-list-elements.py)
+
+[go solution](go/remove_linked_list_elements.go)
+
+[https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)

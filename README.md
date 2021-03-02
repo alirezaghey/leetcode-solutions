@@ -162,7 +162,7 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 437. Path Sum III
 [python solution](python/path-sum-iii.py)
 
-
+[go solution](go/path_sum_iii.go)
 
 [https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)
 

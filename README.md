@@ -494,3 +494,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/partition_equal_subset_sum.go)
 
 [https://leetcode.com/problems/partition-equal-subset-sum/](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
+### 1446. Consecutive Characters
+[python solution](python/consecutive-characters.py)
+
+[go solution](go/consecutive_characters.go)
+
+[https://leetcode.com/problems/consecutive-characters/submissions/](https://leetcode.com/problems/consecutive-characters/submissions/)

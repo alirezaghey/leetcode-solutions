@@ -414,3 +414,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/odd_even_linked_list.go)
 
 [https://leetcode.com/problems/odd-even-linked-list/](https://leetcode.com/problems/odd-even-linked-list/)
+
+
+### 152. Maximum Product Subarray
+[python solution](python/maximum-product-subarray.py)
+
+[go solution](go/maximum_product_subarray.go)
+
+[https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)

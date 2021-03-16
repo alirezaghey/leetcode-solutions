@@ -150,7 +150,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/unique-binary-search-trees/](https://leetcode.com/problems/unique-binary-search-trees/)
 
 
+### 43. Multiply Strings
+[python solution](python/multiply-strings.py)
 
+[go solution](go/multiply_strings.go)
+
+[https://leetcode.com/problems/multiply-strings/](https://leetcode.com/problems/multiply-strings/)
 
 
 

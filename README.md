@@ -173,3 +173,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/number_of_valid_words_for_each_puzzle.go)
 
 [https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)
+
+
+### 1002. Find Common Characters
+[python solution](python/find-common-characters.py)
+
+[go solution](go/find_common_characters.go)
+
+[https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)

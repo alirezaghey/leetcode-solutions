@@ -142,9 +142,22 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 
 
+### 96. Unique Binary Search Trees
+[python solution](python/unique-binary-search-trees.py)
+
+[go solution](go/unique_binary_search_trees.go)
+
+[https://leetcode.com/problems/unique-binary-search-trees/](https://leetcode.com/problems/unique-binary-search-trees/)
+
+
+
+
+
+
 ### 437. Path Sum III
 [python solution](python/path-sum-iii.py)
 
 
 
 [https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)
+

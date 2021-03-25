@@ -422,3 +422,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/maximum_product_subarray.go)
 
 [https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)
+
+
+### 1032. Stream of Characters
+[python solution](python/stream-of-characters.py)
+
+[go solution](go/stream_of_characters.go)
+
+[https://leetcode.com/problems/stream-of-characters/](https://leetcode.com/problems/stream-of-characters/)

@@ -197,3 +197,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go](go/min_val_get_positive_step_by_step_sum.go)
 
 [https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+
+
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+[python solution](python/min-cost-make-valid-path-in-grid.py)
+
+[go solution](go/min_cost_make_valid_path_in_grid.go)
+
+[https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)

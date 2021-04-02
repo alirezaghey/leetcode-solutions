@@ -140,3 +140,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/find_winner_tic_tac_toe.go)
 
 [https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
+
+
+### 437. Path Sum III
+[python solution](python/path-sum-iii.py)
+
+
+
+[https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)

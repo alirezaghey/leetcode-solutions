@@ -132,3 +132,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/single_number_iii.go)
 
 [https://leetcode.com/problems/single-number-iii/](https://leetcode.com/problems/single-number-iii/)
+
+
+### 1275. Find Winner on a Tic Tac Toe Game
+[python solution](python/find-winner-tic-tac-toe.py)
+
+[go solution](go/find_winner_tic_tac_toe.go)
+
+[https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)

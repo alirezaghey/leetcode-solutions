@@ -277,3 +277,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/hamming_distance.go)
 
 [https://leetcode.com/problems/hamming-distance/](https://leetcode.com/problems/hamming-distance/)
+
+
+### 61. Rotate List
+[python solution](python/rotate-list.py)
+
+[go solution](go/rotate_list.go)
+
+[https://leetcode.com/problems/rotate-list/](https://leetcode.com/problems/rotate-list/)

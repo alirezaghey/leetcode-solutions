@@ -124,3 +124,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/arranging_coins.go)
 
 [https://leetcode.com/problems/arranging-coins/](https://leetcode.com/problems/arranging-coins/)
+
+
+### 260. Single Number III
+[python solution](python/single-number-iii.py)
+
+[go solution](go/single_number_iii.go)
+
+[https://leetcode.com/problems/single-number-iii/](https://leetcode.com/problems/single-number-iii/)

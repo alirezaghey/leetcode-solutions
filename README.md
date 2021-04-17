@@ -166,3 +166,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)
 
+
+### 1178. Number of Valid Words for Each Puzzle
+[python solution](python/number-of-valid-words-for-each-puzzle.py)
+
+[go solution](go/number_of_valid_words_for_each_puzzle.go)
+
+[https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)

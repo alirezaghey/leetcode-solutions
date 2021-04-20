@@ -526,3 +526,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/minimum_height_trees.go)
 
 [https://leetcode.com/problems/minimum-height-trees/](https://leetcode.com/problems/minimum-height-trees/)
+
+
+### 221. Maximal Square
+[python solution](python/maximal-square.py)
+
+[go solution](go/maximal_square.go)
+
+[https://leetcode.com/problems/maximal-square/](https://leetcode.com/problems/maximal-square/)

@@ -183,9 +183,17 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
 
 
-## 122. Best Time to Buy and Sell Stock II
+### 122. Best Time to Buy and Sell Stock II
 [python solution](python/best-time-buy-and-sell-stock-ii.py)
 
 [go solution](go/best_time_buy_and_sell_stock_ii.go)
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+
+### 1413. Minimum Value to Get Positive Step by Step Sum
+[python](python/min-val-get-positive-step-by-step-sum.py)
+
+[go](go/min_val_get_positive_step_by_step_sum.go)
+
+[https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)

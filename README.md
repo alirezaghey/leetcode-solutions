@@ -502,3 +502,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/consecutive_characters.go)
 
 [https://leetcode.com/problems/consecutive-characters/submissions/](https://leetcode.com/problems/consecutive-characters/submissions/)
+
+
+### 938 Range Sum of BST
+[python solution](python/range-sum-of-bst.py)
+
+[go solution](go/range_sum_of_bst.go)
+
+[https://leetcode.com/problems/range-sum-of-bst/submissions/](https://leetcode.com/problems/range-sum-of-bst/submissions/)

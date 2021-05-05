@@ -100,3 +100,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/sum_of_left_leaves.go)
 
 [https://leetcode.com/problems/sum-of-left-leaves/](https://leetcode.com/problems/sum-of-left-leaves/)
+
+
+### 1260. Shift 2D Grid
+[python solution](python/shift-2d-grid.py)
+
+[go solution](go/shift_2d_grid.go)
+
+[https://leetcode.com/problems/shift-2d-grid/](https://leetcode.com/problems/shift-2d-grid/)

@@ -486,3 +486,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/nth_magical_number.go)
 
 [https://leetcode.com/problems/nth-magical-number/](https://leetcode.com/problems/nth-magical-number/)
+
+
+### 416. Partition Equal Subset Sum
+[python solution](python/partition-equal-subset-sum.py)
+
+[go solution](go/partition_equal_subset_sum.go)
+
+[https://leetcode.com/problems/partition-equal-subset-sum/](https://leetcode.com/problems/partition-equal-subset-sum/)

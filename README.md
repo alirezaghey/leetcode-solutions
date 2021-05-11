@@ -510,3 +510,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/range_sum_of_bst.go)
 
 [https://leetcode.com/problems/range-sum-of-bst/submissions/](https://leetcode.com/problems/range-sum-of-bst/submissions/)
+
+
+### 147. Insertion Sort List
+[python solution](python/insertion-sort-list.py)
+
+[go solution](go/insertion_sort_list.go)
+
+[https://leetcode.com/problems/insertion-sort-list/](https://leetcode.com/problems/insertion-sort-list/)

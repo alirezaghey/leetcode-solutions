@@ -108,3 +108,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/shift_2d_grid.go)
 
 [https://leetcode.com/problems/shift-2d-grid/](https://leetcode.com/problems/shift-2d-grid/)
+
+
+## 382. Linked List Random Node
+[python solution](python/linked-list-random-node.py)
+
+[go solution](go/linked_list_random_node.go)
+
+[https://leetcode.com/problems/linked-list-random-node/](https://leetcode.com/problems/linked-list-random-node/)

@@ -293,3 +293,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/wiggle_sort_ii.go)
 
 [https://leetcode.com/problems/wiggle-sort-ii/](https://leetcode.com/problems/wiggle-sort-ii/)
+
+
+### 540. Single Element in a Sorted Array
+[python solution](python/single-element-in-sorted-array.py)
+
+[go solution](go/single_element_in_sorted_array.go)
+
+[https://leetcode.com/problems/single-element-in-a-sorted-array/](https://leetcode.com/problems/single-element-in-a-sorted-array/)

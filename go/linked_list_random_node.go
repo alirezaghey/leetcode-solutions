@@ -1,18 +1,17 @@
+package leetcode
+
 import (
 	"math/rand"
 )
-/**
-	* Definition for singly-linked list.
-	* type ListNode struct {
-	*     Val int
-	*     Next *ListNode
-	* }
-	*/
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
 type Solution struct {
-	Data []int
+	Data   []int
 	Length int
 }
-
 
 func Constructor(head *ListNode) Solution {
 	s := Solution{}
@@ -23,7 +22,6 @@ func Constructor(head *ListNode) Solution {
 	s.Length = len(s.Data)
 	return s
 }
-
 
 func (this *Solution) GetRandom() int {
 	return this.Data[rand.Intn(this.Length)]

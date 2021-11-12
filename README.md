@@ -192,9 +192,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 ### 1413. Minimum Value to Get Positive Step by Step Sum
-[python](python/min-val-get-positive-step-by-step-sum.py)
+[python Solution](python/min-val-get-positive-step-by-step-sum.py)
 
-[go](go/min_val_get_positive_step_by_step_sum.go)
+[go Solution](go/min_val_get_positive_step_by_step_sum.go)
 
 [https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 

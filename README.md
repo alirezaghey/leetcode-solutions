@@ -213,3 +213,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/remove_linked_list_elements.go)
 
 [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)
+
+
+### 739. Daily Temperatures
+[python solution](python/daily-temperatures.py)
+
+[go solution](go/daily_temperatures.go)
+
+[https://leetcode.com/problems/daily-temperatures/](https://leetcode.com/problems/daily-temperatures/)

@@ -229,3 +229,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/maximum_path_quality_of_graph.go)
 
 [https://leetcode.com/problems/maximum-path-quality-of-a-graph/](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
+
+
+### 1286. Iterator for Combination
+[python solution](python/iterator-for-combination.py)
+
+[go solution](go/iterator_for_combination.go)
+
+[https://leetcode.com/problems/iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)

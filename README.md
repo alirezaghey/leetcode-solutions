@@ -241,6 +241,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 368. Largest Divisible Subset
 [python solution](python/largest-divisible-subset.py)
 
-
+[go solution](go/largest_divisible_subset.go)
 
 [https://leetcode.com/problems/largest-divisible-subset/](https://leetcode.com/problems/largest-divisible-subset/)

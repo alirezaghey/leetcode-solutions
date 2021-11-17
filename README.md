@@ -253,3 +253,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/kth_smallest_number_multiplication_table.go)
 
 [https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+
+
+### 62. Unique Paths
+[python solution](python/unique-paths.py)
+
+[go solution](go/unique_paths.go)
+
+[https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)

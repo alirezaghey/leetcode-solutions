@@ -269,3 +269,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/find_all_numbers_disappeared_in_array.go)
 
 [https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+
+
+### 461. Hamming Distance
+[python solution](python/hamming-distance.py)
+
+[go solution](go/hamming_distance.go)
+
+[https://leetcode.com/problems/hamming-distance/](https://leetcode.com/problems/hamming-distance/)

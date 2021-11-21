@@ -309,3 +309,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/n_queens.go)
 
 [https://leetcode.com/problems/n-queens/](https://leetcode.com/problems/n-queens/)
+
+
+### 106. Construct Binary Tree from Inorder and Postorder Traversal
+[python solution](python/construct-binarytree-from-inorder-postorder-traversal.py)
+
+[go solution](go/construct_binarytree_from_inorder_postorder_traversal.go)
+
+[https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)

@@ -317,3 +317,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/construct_binarytree_from_inorder_postorder_traversal.go)
 
 [https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
+
+
+
+### 450. Delete Node in a BST
+[python solution](python/delete-node-in-bst.py)
+
+[go solution](go/delete-node-in-bst.go)
+
+[https://leetcode.com/problems/delete-node-in-a-bst/](https://leetcode.com/problems/delete-node-in-a-bst/)

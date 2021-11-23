@@ -326,3 +326,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/delete-node-in-bst.go)
 
 [https://leetcode.com/problems/delete-node-in-a-bst/](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+
+### 952. Largest Component Size by Common Factor
+[python solution](python/largest-component-size-by-common-factor.py)
+
+
+
+[https://leetcode.com/problems/largest-component-size-by-common-factor/](https://leetcode.com/problems/largest-component-size-by-common-factor/)

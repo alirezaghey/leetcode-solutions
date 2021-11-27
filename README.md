@@ -351,3 +351,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)
 
+
+### 315. Count of Smaller Numbers After Self
+[python solution](python/count-of-smaller-numbers-after-self.py)
+
+[go solution](go/count_of_smaller_numbers_after_self.go)
+
+[https://leetcode.com/problems/count-of-smaller-numbers-after-self/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
+

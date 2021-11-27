@@ -360,3 +360,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/count-of-smaller-numbers-after-self/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 
 
+### 327. Count of Range Sum
+[python solution](python/count-of-range-sum.py)
+
+[go solution](go/count_of_range_sum.go)
+
+[https://leetcode.com/problems/count-of-range-sum/](https://leetcode.com/problems/count-of-range-sum/)
+
+

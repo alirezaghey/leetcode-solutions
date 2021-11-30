@@ -390,3 +390,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/accounts_merge.go)
 
 [https://leetcode.com/problems/accounts-merge/](https://leetcode.com/problems/accounts-merge/)
+
+
+### 85. Maximal Rectangle
+[python solution](python/maximal-rectangle.py)
+
+[go solution](go/maximal_rectangle.go)
+
+[https://leetcode.com/problems/maximal-rectangle/](https://leetcode.com/problems/maximal-rectangle/)

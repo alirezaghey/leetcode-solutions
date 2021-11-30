@@ -382,3 +382,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/all_paths_from_source_to_target.go)
 
 [https://leetcode.com/problems/all-paths-from-source-to-target/](https://leetcode.com/problems/all-paths-from-source-to-target/)
+
+
+### 721. Accounts Merge
+[python solution](python/accounts-merge.py)
+
+[go solution](go/accounts_merge.go)
+
+[https://leetcode.com/problems/accounts-merge/](https://leetcode.com/problems/accounts-merge/)

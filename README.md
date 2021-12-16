@@ -518,3 +518,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/insertion_sort_list.go)
 
 [https://leetcode.com/problems/insertion-sort-list/](https://leetcode.com/problems/insertion-sort-list/)
+
+
+### 310. Minimum Height Trees
+[python solution](python/minimum-height-trees.py)
+
+[go solution](go/minimum_height_trees.go)
+
+[https://leetcode.com/problems/minimum-height-trees/](https://leetcode.com/problems/minimum-height-trees/)

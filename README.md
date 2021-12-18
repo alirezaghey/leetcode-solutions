@@ -534,3 +534,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/maximal_square.go)
 
 [https://leetcode.com/problems/maximal-square/](https://leetcode.com/problems/maximal-square/)
+
+
+### 902. Numbers At Most N Given Digit Set
+[python solution](python/numbers-most-n-given-digit-set.py)
+
+[https://leetcode.com/problems/numbers-at-most-n-given-digit-set/](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)

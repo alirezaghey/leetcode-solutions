@@ -540,3 +540,13 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/numbers-most-n-given-digit-set.py)
 
 [https://leetcode.com/problems/numbers-at-most-n-given-digit-set/](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
+
+
+### 231. Power of Two
+[python solution](python/power-of-two.py)
+
+[go solution](go/power-of-two.go)
+
+[https://leetcode.com/problems/power-of-two/submissions/](https://leetcode.com/problems/power-of-two/submissions/)
+
+

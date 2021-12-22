@@ -550,3 +550,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/power-of-two/submissions/](https://leetcode.com/problems/power-of-two/submissions/)
 
 
+### 143. Reorder List
+[python solution](python/reorder-list.py)
+
+[go solution](go/reorder_list.go)
+
+[https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)

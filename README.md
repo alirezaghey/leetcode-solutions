@@ -564,3 +564,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/course_schedule_ii.go)
 
 [https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/)
+
+
+### 56. Merge Intervals
+[python solution](python/merge-intervals.py)
+
+[go solution](go/merge_intervals.go)
+
+[https://leetcode.com/problems/merge-intervals/](https://leetcode.com/problems/merge-intervals/)

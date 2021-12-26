@@ -572,3 +572,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/merge_intervals.go)
 
 [https://leetcode.com/problems/merge-intervals/](https://leetcode.com/problems/merge-intervals/)
+
+
+### 973. K Closest Points to Origin
+[python solution](python/k-closest-points-to-origin.py)
+
+
+
+[https://leetcode.com/problems/k-closest-points-to-origin/](https://leetcode.com/problems/k-closest-points-to-origin/)

@@ -629,3 +629,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/minimum_number_of_arrows_to_burst_balloons.go)
 
 [https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+### 2134. Minimum Swaps to Group All 1's Together II
+[python solution](python/minimum-swaps-to-group-all-ones-ii.py)
+
+[go solution](go/minimum_swaps_to_group_all_ones.go)
+
+[https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)

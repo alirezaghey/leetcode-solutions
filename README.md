@@ -637,3 +637,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/minimum_swaps_to_group_all_ones.go)
 
 [https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)
+
+
+
+### 2135. Count Words Obtained After Adding a Letter
+[python solution](python/count-words-obtained-after-adding-a-letter.py)
+
+[go solution](go/count_words_obtained_after_adding_a_letter.go)
+
+[https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)

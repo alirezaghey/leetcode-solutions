@@ -672,3 +672,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/jump_game_iv.go)
 
 [https://leetcode.com/problems/jump-game-iv/](https://leetcode.com/problems/jump-game-iv/)
+
+
+
+### 876. Middle of the Linked List
+[python solution](python/middle-of-the-linked-list.py)
+
+[go solution](go/middle_of_the_linked_list.go)
+
+[https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)

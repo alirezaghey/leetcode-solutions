@@ -588,3 +588,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/number-complement/](https://leetcode.com/problems/number-complement/)
+
+
+
+### 1041. Robot Bounded In Circle
+[python solution](python/robot-bounded-in-circle.py)
+
+[go solution](go/robot_bounded_in_circle.go)
+
+[https://leetcode.com/problems/robot-bounded-in-circle/](https://leetcode.com/problems/robot-bounded-in-circle/)

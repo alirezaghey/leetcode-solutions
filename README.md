@@ -597,3 +597,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/robot_bounded_in_circle.go)
 
 [https://leetcode.com/problems/robot-bounded-in-circle/](https://leetcode.com/problems/robot-bounded-in-circle/)
+
+
+### 1022. Sum of Root To Leaf Binary Numbers
+[python solution](python/sum-of-root-to-leaf-binary-numbers.py)
+
+[go solution](go/sum_of_root_to_leaf_binary_numbers.go)
+
+[https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)

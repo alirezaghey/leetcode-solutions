@@ -613,3 +613,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/cherry_pickup_ii.go)
 
 [https://leetcode.com/problems/cherry-pickup-ii/](https://leetcode.com/problems/cherry-pickup-ii/)
+
+
+### 701. Insert into a Binary Search Tree
+[python solution](python/insert-into-a-binary-search-tree.py)
+
+[go solution](go/insert_into_a_binary_search_tree.go)
+
+[https://leetcode.com/problems/insert-into-a-binary-search-tree/](https://leetcode.com/problems/insert-into-a-binary-search-tree/)

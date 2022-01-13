@@ -621,3 +621,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/insert_into_a_binary_search_tree.go)
 
 [https://leetcode.com/problems/insert-into-a-binary-search-tree/](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+
+
+### 452. Minimum Number of Arrows to Burst Balloons
+[python solution](python/minimum-number-of-arrows-to-burst-balloons.py)
+
+[go solution](go/minimum_number_of_arrows_to_burst_balloons.go)
+
+[https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)

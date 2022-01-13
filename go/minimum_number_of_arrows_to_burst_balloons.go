@@ -4,6 +4,8 @@ import (
 	"sort"
 )
 
+// Time complexity: O(n * log n)
+// Space complexity: O(1) or whatever the space complexity of the sorting algorithm is
 func findMinArrowShots(points [][]int) int {
 	sort.Slice(points, func(i, j int) bool { return points[i][0] < points[j][0] })
 

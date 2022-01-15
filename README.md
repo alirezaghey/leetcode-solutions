@@ -663,3 +663,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/reverse_words_in_a_string_iii.go)
 
 [https://leetcode.com/problems/reverse-words-in-a-string-iii/](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+
+
+
+### 1345. Jump Game IV
+[python soluton](python/jump-game-iv.py)
+
+[go solution](go/jump_game_iv.go)
+
+[https://leetcode.com/problems/jump-game-iv/](https://leetcode.com/problems/jump-game-iv/)

@@ -2,6 +2,31 @@
 # Related Topics: Linked List, Two Pointers
 # Difficulty: Medium
 
+from typing import Optional
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+class Solution:
+    # Time complexity: O(n)
+    # Space complexity: O(1)
+    # This solution is more readable in my opinion compared to the one I wrote a couple of years ago
+    # It uses a dummy head to make the code cleaner
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        dummy_head = ListNode(0, head)
+        fast = slow = dummy_head
+        
+        for _ in range(n):
+            fast = fast.next
+        
+        while fast.next != None:
+            fast = fast.next
+            slow = slow.next
+        
+        slow.next = slow.next.next
+        return dummy_head.next
 
 # Initial thoughts:
 # Using a two pointer approach, we are going to advance a forerunner n times
@@ -17,13 +42,7 @@
 # Time complexity: O(n) where n is the number of nodes in the list
 # Space complexity: O(1)
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
-class Solution:
+class Solution2:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
         vanguard = head
         for i in range(n):

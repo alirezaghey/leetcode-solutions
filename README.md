@@ -681,3 +681,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/middle_of_the_linked_list.go)
 
 [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+
+### 849. Maximize Distance to Closest Person
+[python solution](python/maximize-distance-to-closest-person.py)
+
+[go solution](go/maximize_distance_to_closest_person.go)
+
+[https://leetcode.com/problems/maximize-distance-to-closest-person/](https://leetcode.com/problems/maximize-distance-to-closest-person/)

@@ -2,6 +2,29 @@
 #  Related Topics: BFS, DFS
 #  Difficulty: Easy
 
+# same BFS solution as further below but a little bit more clean
+class Solution:
+    # Time complexity: O(n * m) where n and m are the rows and columns of the matrix
+    # Space complexity: O(n * m)
+    # BFS
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        R, C = len(image), len(image[0])
+        start_color = image[sr][sc]
+        if start_color == newColor: return image
+        
+        deq = deque([(sr, sc)])
+        image[sr][sc] = newColor
+        
+        while deq:
+            r, c = deq.popleft()
+            
+            for dr, dc in ((-1, 0), (0, 1), (1, 0), (0, -1)):
+                nr, nc = r+dr, c+dc
+                if 0 <= nr < R and 0 <= nc < C and image[nr][nc] == start_color:
+                    deq.append((nr, nc))
+                    image[nr][nc] = newColor
+        return image
+
 
 # Initial thoughts:
 # Starting with the initial pixel we can approach the problem in a BFS manner.
@@ -15,7 +38,7 @@ from collections import deque
 from typing import List
 
 
-class Solution:
+class Solution2:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
         R, C = len(image), len(image[0])
         currPixels = [(sr, sc)]

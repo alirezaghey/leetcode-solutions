@@ -690,3 +690,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/maximize_distance_to_closest_person.go)
 
 [https://leetcode.com/problems/maximize-distance-to-closest-person/](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+
+
+
+### 290. Word Pattern
+[python solution](python/word-pattern.py)
+
+[go solution](go/word_pattern.go)
+
+[https://leetcode.com/problems/word-pattern/](https://leetcode.com/problems/word-pattern/)

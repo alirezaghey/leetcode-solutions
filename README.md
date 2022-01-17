@@ -699,3 +699,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/word_pattern.go)
 
 [https://leetcode.com/problems/word-pattern/](https://leetcode.com/problems/word-pattern/)
+
+
+
+### 695. Max Area of Island
+[python solution](python/max-area-of-island.py)
+
+
+[https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)

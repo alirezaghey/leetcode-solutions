@@ -708,3 +708,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/max_area_of_island.go)
 
 [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)
+
+
+
+### 605. Can Place Flowers
+[python solution](python/can-place-flowers.py)
+
+[go solution](go/can_place_flowers.go)
+
+[https://leetcode.com/problems/can-place-flowers/](https://leetcode.com/problems/can-place-flowers/)

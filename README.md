@@ -705,5 +705,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 695. Max Area of Island
 [python solution](python/max-area-of-island.py)
 
+[go solution](go/max_area_of_island.go)
 
 [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)

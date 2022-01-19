@@ -731,5 +731,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 116. Populating Next Right Pointers in Each Node
 [python solution](python/populating-next-right-pointers-in-each-node.py)
 
+[go solution](go/populating_next_right_pointers_in_each_node.go)
 
 [https://leetcode.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)

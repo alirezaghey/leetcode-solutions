@@ -734,3 +734,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/populating_next_right_pointers_in_each_node.go)
 
 [https://leetcode.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+
+
+### 142. Linked List Cycle II
+[python solution](python/linked-list-cycle-ii.py)
+
+
+
+[https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)

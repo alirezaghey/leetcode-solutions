@@ -743,3 +743,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/linked_list_cycle_ii.go)
 
 [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+
+
+### 875. Koko Eating Bananas
+[python solution](python/koko-eating-bananas.py)
+
+[go solution](go/koko_eating_bananas.go)
+
+[https://leetcode.com/problems/koko-eating-bananas/](https://leetcode.com/problems/koko-eating-bananas/)

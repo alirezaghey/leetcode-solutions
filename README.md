@@ -752,3 +752,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/koko_eating_bananas.go)
 
 [https://leetcode.com/problems/koko-eating-bananas/](https://leetcode.com/problems/koko-eating-bananas/)
+
+
+
+### 206. Reverse Linked List
+[python solution](python/reverse-linked-list.py)
+
+
+[https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)

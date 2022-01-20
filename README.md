@@ -740,6 +740,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 142. Linked List Cycle II
 [python solution](python/linked-list-cycle-ii.py)
 
-
+[go solution](go/linked_list_cycle_ii.go)
 
 [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)

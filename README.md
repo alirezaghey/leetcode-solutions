@@ -758,5 +758,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 206. Reverse Linked List
 [python solution](python/reverse-linked-list.py)
 
+[go solution](go/reverse_linked_list.go)
 
 [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)

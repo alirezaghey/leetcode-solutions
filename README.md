@@ -761,3 +761,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/reverse_linked_list.go)
 
 [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
+
+
+### 77. Combinations
+[python solution](python/combinations.py)
+
+
+[https://leetcode.com/problems/combinations/](https://leetcode.com/problems/combinations/)

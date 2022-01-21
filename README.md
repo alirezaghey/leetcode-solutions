@@ -766,5 +766,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 77. Combinations
 [python solution](python/combinations.py)
 
+[go solution](go/combinations.go)
 
 [https://leetcode.com/problems/combinations/](https://leetcode.com/problems/combinations/)

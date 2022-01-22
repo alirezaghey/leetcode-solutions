@@ -775,6 +775,7 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 134. Gas Station
 [python solution](python/gas-station.py)
 
+[go solution](go/gas_station.go)
 
 [https://leetcode.com/problems/gas-station/](https://leetcode.com/problems/gas-station/)
 

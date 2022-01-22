@@ -783,5 +783,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 1510. Stone Game IV
 [python solution](python/stone-game-iv.py)
 
+[go solution](go/stone_game_iv.go)
 
 [https://leetcode.com/problems/stone-game-iv/](https://leetcode.com/problems/stone-game-iv/)

@@ -777,3 +777,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/gas-station/](https://leetcode.com/problems/gas-station/)
+
+
+
+### 1510. Stone Game IV
+[python solution](python/stone-game-iv.py)
+
+
+[https://leetcode.com/problems/stone-game-iv/](https://leetcode.com/problems/stone-game-iv/)

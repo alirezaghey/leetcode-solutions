@@ -793,5 +793,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 1291. Sequential Digits
 [python solution](python/sequential-digits.py)
 
+[go solution](go/sequential_digits.go)
 
 [https://leetcode.com/problems/sequential-digits/](https://leetcode.com/problems/sequential-digits/)

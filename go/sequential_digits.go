@@ -1,10 +1,28 @@
 package leetcode
 
 import (
+	"math"
 	"sort"
+	"strconv"
 )
 
 func sequentialDigits(low int, high int) []int {
+	lowD, highD := int(math.Log10(float64(low)))+1, int(math.Log10(float64(high)))+1
+	res := make([]int, 0, 10)
+	base := "123456789"
+
+	for length := lowD; length <= highD; length++ {
+		for start := 0; start <= 9-length; start++ {
+			num, _ := strconv.Atoi(base[start : start+length])
+			if num >= low && num <= high {
+				res = append(res, num)
+			}
+		}
+	}
+	return res
+}
+
+func sequentialDigits2(low int, high int) []int {
 	var backtrack func(int, int)
 	res := make([]int, 0)
 	backtrack = func(num, curr int) {

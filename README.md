@@ -787,3 +787,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/stone_game_iv.go)
 
 [https://leetcode.com/problems/stone-game-iv/](https://leetcode.com/problems/stone-game-iv/)
+
+
+
+### 1291. Sequential Digits
+[python solution](python/sequential-digits.py)
+
+
+[https://leetcode.com/problems/sequential-digits/](https://leetcode.com/problems/sequential-digits/)

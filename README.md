@@ -802,5 +802,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 520. Detect Capital
 [python solution](python/detect-capital.py)
 
+[go solution](go/detect_capital.go)
 
 [https://leetcode.com/problems/detect-capital/](https://leetcode.com/problems/detect-capital/)

@@ -796,3 +796,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/sequential_digits.go)
 
 [https://leetcode.com/problems/sequential-digits/](https://leetcode.com/problems/sequential-digits/)
+
+
+
+### 520. Detect Capital
+[python solution](python/detect-capital.py)
+
+
+[https://leetcode.com/problems/detect-capital/](https://leetcode.com/problems/detect-capital/)

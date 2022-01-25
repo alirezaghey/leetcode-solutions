@@ -814,3 +814,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/valid_mountain_array.go)
 
 [https://leetcode.com/problems/valid-mountain-array/](https://leetcode.com/problems/valid-mountain-array/)
+
+
+
+### 33. Search in Rotated Sorted Array
+[python solution](python/search-in-rotated-sorted-array.py)
+
+
+[https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)

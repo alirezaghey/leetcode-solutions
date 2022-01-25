@@ -820,5 +820,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 33. Search in Rotated Sorted Array
 [python solution](python/search-in-rotated-sorted-array.py)
 
+[go solution](go/search_in_rotated_sorted_array.go)
 
 [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)

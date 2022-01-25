@@ -805,3 +805,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/detect_capital.go)
 
 [https://leetcode.com/problems/detect-capital/](https://leetcode.com/problems/detect-capital/)
+
+
+
+### 941. Valid Mountain Array
+[python solution](python/valid-mountain-array.py)
+
+
+[https://leetcode.com/problems/valid-mountain-array/](https://leetcode.com/problems/valid-mountain-array/)

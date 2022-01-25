@@ -811,5 +811,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 941. Valid Mountain Array
 [python solution](python/valid-mountain-array.py)
 
+[go solution](go/valid_mountain_array.go)
 
 [https://leetcode.com/problems/valid-mountain-array/](https://leetcode.com/problems/valid-mountain-array/)

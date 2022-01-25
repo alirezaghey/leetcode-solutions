@@ -1,3 +1,4 @@
+from typing import List
 #  https://leetcode.com/problems/search-a-2d-matrix/
 #  Related Topics: Array, Binary Search
 #  Difficulty: Medium
@@ -15,7 +16,49 @@
 # Space Complexity: O(1)
 
 class Solution:
+    # Time complexity: O(log n + log m)
+    # where n is the number of rows and m the number of cols in matrix
+    # Space complexity: O(1)
+    # Arguably a cleaner version than further below
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        def find_row(matrix, target):
+            left, right = 0, len(matrix)-1
+            
+            while left <= right:
+                mid = left + (right - left) // 2
+                
+                if matrix[mid][0] > target:
+                    right = mid-1
+                elif matrix[mid][-1] < target:
+                    left = mid+1
+                else:
+                    return mid
+            return -1
+        
+        def find_el(arr, target):
+            left, right = 0, len(arr)-1
+            
+            while left <= right:
+                mid = left + (right - left) // 2
+                
+                if target < arr[mid]:
+                    right = mid-1
+                elif target > arr[mid]:
+                    left = mid+1
+                else:
+                    return mid
+            return -1
+        
+        row_idx = find_row(matrix, target)
+        if row_idx == -1: return False
+        
+        el_idx = find_el(matrix[row_idx], target)
+        
+        if el_idx == -1: return False
+        return True
+
+
+    def searchMatrix2(self, matrix: List[List[int]], target: int) -> bool:
         if not matrix or not len(matrix) or not len(matrix[0]):
             return False
 

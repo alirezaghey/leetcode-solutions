@@ -837,5 +837,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 153. Find Minimum in Rotated Sorted Array
 [python solution](python/find-minimum-in-rotated-sorted-array.py)
 
+[go solution](go/find_minimum_in_rotated_sorted_array.go)
 
 [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)

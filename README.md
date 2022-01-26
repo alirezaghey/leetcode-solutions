@@ -823,3 +823,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/search_in_rotated_sorted_array.go)
 
 [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+
+
+### 1305. All Elements in Two Binary Search Trees
+[python solution](python/all-elements-in-two-binary-search-trees.py)
+
+
+[https://leetcode.com/problems/all-elements-in-two-binary-search-trees/](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)

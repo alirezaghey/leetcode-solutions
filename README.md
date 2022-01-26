@@ -831,3 +831,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/all-elements-in-two-binary-search-trees/](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+
+
+
+### 153. Find Minimum in Rotated Sorted Array
+[python solution](python/find-minimum-in-rotated-sorted-array.py)
+
+
+[https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)

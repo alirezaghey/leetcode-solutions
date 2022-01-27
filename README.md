@@ -855,4 +855,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 82. Remove Duplicates from Sorted List II
 [python solution](python/remove-duplicates-from-sorted-list-ii.py)
 
+[go solution](go/remove_duplicates_from_sorted_list_ii.go)
+
 [https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)

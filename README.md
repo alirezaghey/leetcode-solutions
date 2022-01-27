@@ -840,3 +840,12 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/find_minimum_in_rotated_sorted_array.go)
 
 [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+
+
+### 421. Maximum XOR of Two Numbers in an Array
+[python solution](python/maximum-xor-of-two-numbers-in-an-array.py)
+
+
+
+[https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)

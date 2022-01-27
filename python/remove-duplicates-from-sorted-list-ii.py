@@ -8,6 +8,8 @@ class ListNode:
         
 
 class Solution:
+    # Time complexity: O(n) where n is the length of the linked list
+    # Space complexity: O(1)
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         dummy_head = prev = ListNode(0, head)
         curr = head

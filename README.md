@@ -871,4 +871,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 844. Backspace String Compare
 [python solution](python/backspace-string-compare.py)
 
+[go solution](go/backspace_string_compare.go)
+
 [https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)

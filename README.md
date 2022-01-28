@@ -865,3 +865,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/design-add-and-search-words-data-structure.py)
 
 [https://leetcode.com/problems/design-add-and-search-words-data-structure/](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+
+
+
+### 844. Backspace String Compare
+[python solution](python/backspace-string-compare.py)
+
+[https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)

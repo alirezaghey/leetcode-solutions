@@ -858,3 +858,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/remove_duplicates_from_sorted_list_ii.go)
 
 [https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+
+
+### 211. Design Add and Search Words Data Structure
+[python solution](python/design-add-and-search-words-data-structure.py)
+
+[https://leetcode.com/problems/design-add-and-search-words-data-structure/](https://leetcode.com/problems/design-add-and-search-words-data-structure/)

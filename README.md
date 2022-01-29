@@ -874,3 +874,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/backspace_string_compare.go)
 
 [https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)
+
+
+
+### 84. Largest Rectangle in Histogram
+[python solution](python/largest-rectangle-in-histogram.py)
+
+
+[https://leetcode.com/problems/largest-rectangle-in-histogram/](https://leetcode.com/problems/largest-rectangle-in-histogram/)

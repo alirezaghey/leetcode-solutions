@@ -896,6 +896,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 1672. Richest Customer Wealth
 [python solution](python/richest-customer-wealth.py)
 
-
+[go solution](go/richest_customer_wealth.go)
 
 [https://leetcode.com/problems/richest-customer-wealth/](https://leetcode.com/problems/richest-customer-wealth/)

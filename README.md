@@ -891,3 +891,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/rotate_array.go)
 
 [https://leetcode.com/problems/rotate-array/](https://leetcode.com/problems/rotate-array/)
+
+
+### 1672. Richest Customer Wealth
+[python solution](python/richest-customer-wealth.py)
+
+
+
+[https://leetcode.com/problems/richest-customer-wealth/](https://leetcode.com/problems/richest-customer-wealth/)

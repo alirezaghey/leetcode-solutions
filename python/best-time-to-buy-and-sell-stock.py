@@ -31,7 +31,7 @@ class Solution:
 
 # Time complexity: O(n) where n === number of prices
 # Space complexity: O(1)
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit2(self, prices: List[int]) -> int:
         if not len(prices):
             return 0
         maxProfit = float('-inf')
@@ -40,3 +40,15 @@ class Solution:
             maxProfit = max(maxProfit, prices[i]-minPrice)
             minPrice = min(minPrice, prices[i])
         return maxProfit if maxProfit > 0 else 0
+
+
+# Time complexity: O(n) where n === number of prices
+# Space complexity: O(1)
+# Arguably cleaner version than the one above
+    def maxProfit(self, prices: List[int]) -> int:
+        max_profit, min_price = 0, float("inf")
+        
+        for el in prices:
+            max_profit = max(max_profit, el - min_price)
+            min_price = min(min_price, el)
+        return max_profit

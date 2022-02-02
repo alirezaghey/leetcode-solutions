@@ -16,14 +16,14 @@
 
 # Time complexity: O(n) where n == len(s)
 # Space complexity: O(1) because the freq tables won't have more than 26 chars
-from typing import List
+from typing import List, Dict
 from collections import defaultdict
 
 
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
 
-        def createFreqTable(s: str) -> {str: int}:
+        def createFreqTable(s: str) -> Dict[str, int]:
             dic = defaultdict(int)
             for c in s:
                 dic[c] += 1

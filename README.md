@@ -905,5 +905,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 454. 4Sum II
 [python solution](python/4sum-ii.py)
 
+[go solution](go/4sum_ii.go)
 
 [https://leetcode.com/problems/4sum-ii/](https://leetcode.com/problems/4sum-ii/)

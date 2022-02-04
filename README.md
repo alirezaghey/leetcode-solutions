@@ -908,3 +908,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/4sum_ii.go)
 
 [https://leetcode.com/problems/4sum-ii/](https://leetcode.com/problems/4sum-ii/)
+
+
+
+### 525. Contiguous Array
+[python solution](python/contiguous-array.py)
+
+
+[https://leetcode.com/problems/contiguous-array/](https://leetcode.com/problems/contiguous-array/)

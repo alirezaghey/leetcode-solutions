@@ -12,8 +12,9 @@
 # Space complexity: O(k) where k === the number of linked lists because we are going to hold a pointer to the beginning of each
 # linked list in it and advance it if we merge that particular node.
 
-from typing import List
+from typing import List, Optional
 from queue import PriorityQueue
+from collections import heapq
 # Definition for singly-linked list.
 
 
@@ -24,7 +25,7 @@ class ListNode:
 
 
 class Solution:
-    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+    def mergeKLists3(self, lists: List[ListNode]) -> ListNode:
         # Save a pointer to the current beginning of each linked list
         currPointers = []
         for i in range(len(lists)):
@@ -56,7 +57,7 @@ class Solution:
 
 # Time Complexity: O(n * log k) where n == the number of all the nodes in all the linked lists and k == the number of the linked lists
 # Sapce Complexity: O(k) where k == the number of linked lists since we need to load the current of each linked list in the priority queue
-    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+    def mergeKLists2(self, lists: List[ListNode]) -> ListNode:
         # Load the first node from every linked list into a priority queue
         prQueue = PriorityQueue()
         for node in lists:
@@ -74,3 +75,21 @@ class Solution:
                 prQueue.put((node.next.val, node.next))
 
         return head.next
+
+
+    # Time complexity: O(n * log k) where n is the number of nodes in all lists
+    # and k is the number of lists
+    # Space complexity: O(k)
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        hp = [(node.val, i, node) for i, node in enumerate(lists) if node]
+        heapq.heapify(hp)
+        counter = len(lists)
+        dummy_head = curr = ListNode()
+        while hp:
+            _, _, node = heapq.heappop(hp)
+            curr.next = node
+            if node.next:
+                heapq.heappush(hp, (node.next.val, counter, node.next))
+                counter += 1
+            curr = curr.next
+        return dummy_head.next

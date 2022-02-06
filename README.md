@@ -922,5 +922,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 80. Remove Duplicates from Sorted Array II
 [python solution](python/remove-duplicates-from-sorted-array-ii.py)
 
+[go solution](go/remove_duplicates_from_sorted_array_ii.go)
 
 [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)

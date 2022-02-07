@@ -925,3 +925,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/remove_duplicates_from_sorted_array_ii.go)
 
 [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+
+
+
+### 389. Find the Difference
+[python solution](python/find-the-difference.py)
+
+[https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)

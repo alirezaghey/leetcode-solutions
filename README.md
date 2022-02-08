@@ -938,5 +938,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 258. Add Digits
 [python solution](python/add-digits.py)
 
+[go solution](go/add_digits.go)
 
 [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)

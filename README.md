@@ -932,3 +932,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/find-the-difference.py)
 
 [https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)
+
+
+
+### 258. Add Digits
+[python solution](python/add-digits.py)
+
+
+[https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)

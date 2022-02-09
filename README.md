@@ -941,3 +941,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/add_digits.go)
 
 [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)
+
+
+
+### 532. K-diff Pairs in an Array
+[python solution](python/k-diff-pairs-in-an-array.py)
+
+
+[https://leetcode.com/problems/k-diff-pairs-in-an-array/](https://leetcode.com/problems/k-diff-pairs-in-an-array/)

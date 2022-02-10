@@ -955,5 +955,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 560. Subarray Sum Equals K
 [python solution](python/subarray-sum-equals-k.py)
 
+[go solution](go/subarray_sum_equals_k.go)
 
 [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)

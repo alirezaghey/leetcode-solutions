@@ -949,3 +949,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/k-diff-pairs-in-an-array/](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+
+
+
+### 560. Subarray Sum Equals K
+[python solution](python/subarray-sum-equals-k.py)
+
+
+[https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)

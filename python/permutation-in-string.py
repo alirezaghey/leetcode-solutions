@@ -16,14 +16,14 @@
 
 # Time complexity: O(n) where n == len(s2)
 # Space complexity: O(1) because the freq tables won't have more than 26 chars
-from typing import List
+from typing import Dict
 from collections import defaultdict
 
 
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
 
-        def createFreqTable(s: str) -> {str: int}:
+        def createFreqTable(s: str) -> Dict[str, int]:
             dic = defaultdict(int)
             for c in s:
                 dic[c] += 1

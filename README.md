@@ -966,4 +966,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [go solution](go/copy_list_with_random_pointer.go)
 
+[ts solution](ts/copyListWithRandomPointer.ts)
+
 [https://leetcode.com/problems/copy-list-with-random-pointer/](https://leetcode.com/problems/copy-list-with-random-pointer/)

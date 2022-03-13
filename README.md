@@ -964,5 +964,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 138. Copy List with Random Pointer
 [python solution](python/copy-list-with-random-pointer.py)
 
+[go solution](go/copy_list_with_random_pointer.go)
 
 [https://leetcode.com/problems/copy-list-with-random-pointer/](https://leetcode.com/problems/copy-list-with-random-pointer/)

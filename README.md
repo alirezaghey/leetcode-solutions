@@ -958,3 +958,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [go solution](go/subarray_sum_equals_k.go)
 
 [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+
+
+### 138. Copy List with Random Pointer
+[python solution](python/copy-list-with-random-pointer.py)
+
+
+[https://leetcode.com/problems/copy-list-with-random-pointer/](https://leetcode.com/problems/copy-list-with-random-pointer/)

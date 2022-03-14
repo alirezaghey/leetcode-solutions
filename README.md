@@ -975,4 +975,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 71. Simplify Path
 [python solution](python/simplify-path.py)
 
+[go solution](go/simplify_path.go)
+
 [https://leetcode.com/problems/simplify-path/](https://leetcode.com/problems/simplify-path/)

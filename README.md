@@ -977,4 +977,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [go solution](go/simplify_path.go)
 
+[js solution](js/simplify-path.js)
+
 [https://leetcode.com/problems/simplify-path/](https://leetcode.com/problems/simplify-path/)

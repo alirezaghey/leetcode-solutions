@@ -980,3 +980,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [js solution](js/simplify-path.js)
 
 [https://leetcode.com/problems/simplify-path/](https://leetcode.com/problems/simplify-path/)
+
+
+### 946. Validate Stack Sequences
+[python solution](python/validate-stack-sequence.py)
+
+[https://leetcode.com/problems/validate-stack-sequences/](https://leetcode.com/problems/validate-stack-sequences/)

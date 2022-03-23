@@ -993,3 +993,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/remove-duplicate-letters.py)
 
 [https://leetcode.com/problems/remove-duplicate-letters/](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+
+### 991. Broken Calculator
+[python solution](python/broken-calculator.py)
+
+[https://leetcode.com/problems/broken-calculator/](https://leetcode.com/problems/broken-calculator/)

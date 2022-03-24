@@ -1000,3 +1000,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/broken-calculator.py)
 
 [https://leetcode.com/problems/broken-calculator/](https://leetcode.com/problems/broken-calculator/)
+
+
+### 881. Boats to Save People
+[python solution](python/boats-to-save-people.py)
+
+[https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)

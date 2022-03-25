@@ -1006,3 +1006,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/boats-to-save-people.py)
 
 [https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)
+
+
+### 1029. Two City Scheduling
+[python solution](python/two-city-scheduling.py)
+
+[https://leetcode.com/problems/two-city-scheduling/](https://leetcode.com/problems/two-city-scheduling/)

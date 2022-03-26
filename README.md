@@ -1012,3 +1012,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/two-city-scheduling.py)
 
 [https://leetcode.com/problems/two-city-scheduling/](https://leetcode.com/problems/two-city-scheduling/)
+
+
+### 704. Binary Search
+[python solution](python/binary-search.py)
+
+[https://leetcode.com/problems/binary-search/](https://leetcode.com/problems/binary-search/)

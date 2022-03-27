@@ -1018,3 +1018,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/binary-search.py)
 
 [https://leetcode.com/problems/binary-search/](https://leetcode.com/problems/binary-search/)
+
+
+
+### 1337. The K Weakest Rows in a Matrix
+[python solution](python/the-k-weakest-rows-in-a-matrix.py)
+
+
+[https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)

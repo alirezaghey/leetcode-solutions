@@ -1026,3 +1026,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
+
+
+### 81. Search in Rotated Sorted Array II
+[python solution](python/search-in-rotated-sorted-array-ii.py)
+
+
+[https://leetcode.com/problems/search-in-rotated-sorted-array-ii/](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)

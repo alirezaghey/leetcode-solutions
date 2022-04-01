@@ -653,6 +653,8 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [go solution](go/reverse_string.go)
 
+[js solution](js/reverse-string.js)
+
 [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)
 
 
@@ -1034,3 +1036,5 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 
 [https://leetcode.com/problems/search-in-rotated-sorted-array-ii/](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
+

@@ -1042,4 +1042,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 680. Valid Palindrome II
 [python solution](python/valid-palindrome-ii.py)
 
+[go solution](go/valid_palindrome_ii.go)
+
 [https://leetcode.com/problems/valid-palindrome-ii/](https://leetcode.com/problems/valid-palindrome-ii/)

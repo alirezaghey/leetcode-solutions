@@ -29,7 +29,42 @@ from typing import List
 
 
 class Solution:
+    # Time complexity: O(n)
+    # Space complexity: O(1)
     def nextPermutation(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        # find first possible swap position from right
+        idx = -1
+        for i in range(len(nums)-2, -1, -1):
+            if nums[i] < nums[i+1]:
+                idx = i
+                break
+
+        # didn't find a possibility
+        # return in sorted asc order
+        if idx == -1:
+            nums.sort()
+            return
+
+        # find the smallest element to the right
+        # greater than element at idx
+        best = idx+1
+        for i in range(idx+1, len(nums)):
+            if nums[idx] < nums[i] <= nums[best]:
+                best = i
+
+        # swap the elements:
+        nums[idx], nums[best] = nums[best], nums[idx]
+
+        # reverse everything to the right of idx
+        left, right = idx+1, len(nums)-1
+        while left < right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left, right = left+1, right-1
+
+    def nextPermutation2(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """

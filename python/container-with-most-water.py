@@ -16,6 +16,13 @@
 # gained from moving the taller bar or from starting from a point where the distance
 # between the bars is not maximized.
 
+# In other words:
+# The area for any given interval is equal to (right - left) * min(height[right], height[left])
+# Suppose height[left] <= height[right]. If we increment left, we skip all the possible lines (i to j-1), (i to j-2)... (i to i+1).
+# Since the max height for all of these areas can never be greater than height[i], and the width only decreases,
+# we can be sure that we don't lose any better solution in this skipped set.
+# Therefore, we can just have 2 pointers and move the one with the lesser height.
+
 # Time complexity: O(n) where an is the number of bars
 # Space complexity: O(1)
 from typing import List

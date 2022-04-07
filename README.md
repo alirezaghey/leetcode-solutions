@@ -1051,3 +1051,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/swapping-nodes-in-a-linked-list.py)
 
 [https://leetcode.com/problems/swapping-nodes-in-a-linked-list/](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
+
+### 1046. Last Stone Weight
+[python solution](python/last-stone-weight.py)
+
+[https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)

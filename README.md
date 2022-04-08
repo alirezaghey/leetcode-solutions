@@ -1057,3 +1057,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/last-stone-weight.py)
 
 [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)
+
+
+
+### 703. Kth Largest Element in a Stream
+[python solution](python/kth-largest-element-in-stream.py)
+
+[https://leetcode.com/problems/kth-largest-element-in-a-stream/](https://leetcode.com/problems/kth-largest-element-in-a-stream/)

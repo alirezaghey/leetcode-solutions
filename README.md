@@ -1064,3 +1064,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/kth-largest-element-in-stream.py)
 
 [https://leetcode.com/problems/kth-largest-element-in-a-stream/](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+
+
+### 347. Top K Frequent Elements
+[python solution](python/top-k-frequent-elements.py)
+
+[https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)

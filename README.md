@@ -1071,3 +1071,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/top-k-frequent-elements.py)
 
 [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+
+### 682. Baseball Game
+[python solution](python/baseball-game.py)
+
+[https://leetcode.com/problems/baseball-game/](https://leetcode.com/problems/baseball-game/)

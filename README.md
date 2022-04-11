@@ -107,6 +107,8 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [go solution](go/shift_2d_grid.go)
 
+[ts solution](ts/shift-2d-grid.ts)]
+
 [https://leetcode.com/problems/shift-2d-grid/](https://leetcode.com/problems/shift-2d-grid/)
 
 

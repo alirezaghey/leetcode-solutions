@@ -1086,3 +1086,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/game-of-life.py)
 
 [https://leetcode.com/problems/game-of-life/](https://leetcode.com/problems/game-of-life/)
+
+
+### 700. Search in a Binary Search Tree
+[python solution](python/search-in-a-binary-search-tree.py)
+
+[https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)

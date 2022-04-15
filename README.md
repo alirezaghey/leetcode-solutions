@@ -1092,3 +1092,11 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/search-in-a-binary-search-tree.py)
 
 [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+
+
+### 669. Trim a Binary Search Tree
+[python solution](python/trim-binary-search-tree.py)
+
+[https://leetcode.com/problems/trim-a-binary-search-tree/](https://leetcode.com/problems/trim-a-binary-search-tree/)
+
+

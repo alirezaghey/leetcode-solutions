@@ -10,10 +10,25 @@ class TreeNode:
 
 
 class Solution:
+    # Time complexity: O(h + k) where h is the depth of the tree
+    # Space complexity: O(h)
+    # Iterative solution
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        stack = [root]
+        while stack:
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            k -= 1
+            if k == 0:
+                return root.val
+            root = root.right
+
     # Time complexity: O(n)
     # Space complexity: O(h) where h is the depth of the tree
-    # Recursive approach
-    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+    # Recursive Approach
+    def kthSmallest2(self, root: Optional[TreeNode], k: int) -> int:
         self.res = None
 
         def in_order(node, num):

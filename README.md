@@ -1100,3 +1100,7 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [https://leetcode.com/problems/trim-a-binary-search-tree/](https://leetcode.com/problems/trim-a-binary-search-tree/)
 
 
+### 230. Kth Smallest Element in a BST
+[python solution](python/kth-smallest-element-in-a-BST.py)
+
+[https://leetcode.com/problems/kth-smallest-element-in-a-bst/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)

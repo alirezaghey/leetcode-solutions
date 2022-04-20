@@ -1104,3 +1104,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/kth-smallest-element-in-a-BST.py)
 
 [https://leetcode.com/problems/kth-smallest-element-in-a-bst/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+
+### 173. Binary Search Tree Iterator
+[python solution](python/binary-search-tree-iterator.py)
+
+[https://leetcode.com/problems/binary-search-tree-iterator/](https://leetcode.com/problems/binary-search-tree-iterator/)

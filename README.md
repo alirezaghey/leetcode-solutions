@@ -1110,3 +1110,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/binary-search-tree-iterator.py)
 
 [https://leetcode.com/problems/binary-search-tree-iterator/](https://leetcode.com/problems/binary-search-tree-iterator/)
+
+
+### 705. Design HashSet
+[python solution](python/design-hashset.py)
+
+[https://leetcode.com/problems/design-hashset/](https://leetcode.com/problems/design-hashset/)

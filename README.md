@@ -1116,3 +1116,10 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/design-hashset.py)
 
 [https://leetcode.com/problems/design-hashset/](https://leetcode.com/problems/design-hashset/)
+
+
+
+### 1396. Design Underground System
+[python solution](python/design-underground-system)
+
+[https://leetcode.com/problems/design-underground-system/](https://leetcode.com/problems/design-underground-system/)

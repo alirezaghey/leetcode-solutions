@@ -1,0 +1,29 @@
+from collections import defaultdict
+
+
+class UndergroundSystem:
+
+    def __init__(self):
+        self.in_train = {}
+        self.averages = defaultdict(lambda: (0, 0))
+
+    def checkIn(self, id: int, stationName: str, t: int) -> None:
+        self.in_train[id] = (stationName, t)
+
+    def checkOut(self, id: int, stationName: str, t: int) -> None:
+        src_station, src_t = self.in_train[id]
+        duration = t - src_t
+        total, counter = self.averages[(src_station, stationName)]
+        del self.averages[(src_station, stationName)]
+        self.averages[(src_station, stationName)] = (total+duration, counter+1)
+
+    def getAverageTime(self, startStation: str, endStation: str) -> float:
+        total, counter = self.averages[(startStation, endStation)]
+        return total/counter
+
+
+# Your UndergroundSystem object will be instantiated and called as such:
+# obj = UndergroundSystem()
+# obj.checkIn(id,stationName,t)
+# obj.checkOut(id,stationName,t)
+# param_3 = obj.getAverageTime(startStation,endStation)

@@ -1129,4 +1129,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 509. Fibonacci Number
 [python solution](python/fibonacci-number.py)
 
+[js solution](js/fibonacci-number.js)
+
 [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)

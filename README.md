@@ -1131,4 +1131,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 
 [js solution](js/fibonacci-number.js)
 
+[ts solution](ts/fibonacci-number.ts)
+
 [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)

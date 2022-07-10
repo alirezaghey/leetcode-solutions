@@ -1,4 +1,5 @@
 from typing import List
+from functools import lru_cache
 
 
 class Solution:
@@ -26,3 +27,16 @@ class Solution:
         res = min(res, dp[-1], dp[-2])
 
         return res
+
+    # DP memoized recursive approach
+    # TC: O(n)
+    # SC: O(n)
+    def minCostClimbingStairs2(self, cost: List[int]) -> int:
+        @lru_cache(None)
+        def dfs(idx):
+            if idx >= len(cost):
+                return 0
+
+            return min(dfs(idx+1), dfs(idx+2))+cost[idx]
+
+        return min(dfs(0), dfs(1))

@@ -1140,3 +1140,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/interleaving-string.py)
 
 [https://leetcode.com/problems/interleaving-string/](https://leetcode.com/problems/interleaving-string/)
+
+
+### 746. Min Cost Climbing Stairs
+[python solution](python/min-cost-climbing-stairs.py)
+
+[https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)

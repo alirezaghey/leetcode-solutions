@@ -1151,4 +1151,6 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 ### 108. Convert Sorted Array to Binary Search Tree
 [python solution](python/convert-sorted-array-to-binary-search-tree.py)
 
+[js solution](js/convert-sorted-array-to-binary-search-tree.js)
+
 [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)

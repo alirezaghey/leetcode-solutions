@@ -1154,3 +1154,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [js solution](js/convert-sorted-array-to-binary-search-tree.js)
 
 [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+
+### 804. Unique Morse Code Words
+[python solution](python/unique-morse-code-words.py)
+
+[https://leetcode.com/problems/unique-morse-code-words/](https://leetcode.com/problems/unique-morse-code-words/)

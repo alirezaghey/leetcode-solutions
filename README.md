@@ -1160,3 +1160,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/unique-morse-code-words.py)
 
 [https://leetcode.com/problems/unique-morse-code-words/](https://leetcode.com/problems/unique-morse-code-words/)
+
+
+### 1338. Reduce Array Size to The Half
+[python solution](python/reduce-array-size-to-half.py)
+
+[https://leetcode.com/problems/reduce-array-size-to-the-half/](https://leetcode.com/problems/reduce-array-size-to-the-half/)

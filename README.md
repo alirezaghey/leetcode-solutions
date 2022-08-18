@@ -1166,3 +1166,9 @@ Due to time concerns, I only add a small link to newly added problems. I can eit
 [python solution](python/reduce-array-size-to-half.py)
 
 [https://leetcode.com/problems/reduce-array-size-to-the-half/](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+
+
+### 387. First Unique Character in a String
+[python solution](python/first-unique-character-in-string.py)
+
+[https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)
